@@ -10,3 +10,4 @@
 - Important assignments/materials
 
 > 1. [Expressing Requirements](https://www.coursera.org/learn/object-oriented-design/supplement/s2fvX/expressing-requirements-with-user-stories)
+> 2. [Week1 Android App Assignment](https://www.coursera.org/learn/object-oriented-design/peer/ozrPN/capstone-assignment-1-1-uml-class-diagram)
