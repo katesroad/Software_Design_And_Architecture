@@ -18,5 +18,5 @@ Software architecture is tied to many practical concerns. Including
 >4. Then intent of software itself
 
 
-For th catstrphone project, we will use layered architecture
+For the capstone project, we will use layered architecture
 .
