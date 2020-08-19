@@ -18,5 +18,4 @@ Software architecture is tied to many practical concerns. Including
 >4. Then intent of software itself
 
 
-For the capstone project, we will use layered architecture
-.
+For the capstone project, we will use layered architecture.
