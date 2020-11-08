@@ -18,3 +18,9 @@ This course will teach you to understand a variety of web standards These standa
   >2.  Explain systems based on services, service-oritend architecture, and important web standards
   >3. Use `First Generation` web services
   >4. Explain REST achitecture and REST service.
+
+
+## Modules
+
+- [Web Techlogogies](./MODULE.01.Web-Technologies.md)
+- [REST Architecture for SOA](./MODULE.03.REST-Architecture-for-SOA.md)
