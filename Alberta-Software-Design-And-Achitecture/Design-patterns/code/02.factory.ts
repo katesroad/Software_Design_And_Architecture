@@ -24,6 +24,9 @@ class KniefFactory {
   }
 }
 
+/**
+ * return a knife instance
+*/
 class KniefStore {
   constructor(private factory: KniefFactory) { }
 
