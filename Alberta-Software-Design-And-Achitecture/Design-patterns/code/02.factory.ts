@@ -25,7 +25,7 @@ class KniefFactory {
 }
 
 class KniefStore {
-  constructor(private factory KniefFactory) { }
+  constructor(private factory: KniefFactory) { }
 
   orderKnkief(type: string): Knife {
     const knief = this.factory.createKnief(type);
