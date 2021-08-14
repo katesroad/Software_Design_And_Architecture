@@ -53,4 +53,7 @@ and how to escape it by adopting the microservice architecture
 	- Use services as the unit of modularity, A service has an API, which is an impermeable boundary that is difficult to violate.
 	- Each microservice has its own database
 	- communicate using API
+	- Many services correspond to the modules described earlier in this chapter. What’s dif
+ferent
+is that each service and its API are very clearly defined.
 	
