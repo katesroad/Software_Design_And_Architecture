@@ -48,3 +48,9 @@ and how to escape it by adopting the microservice architecture
 		- **x axis**  Load balances requests across multple instances
 		- **z axis**:  scalling runs multiple identical instances of the monolithic application behinds  the routes which routes based on a request attribute. Each  instance is responsible for a subste of data
 		- **y axis** scaliing spliting the application into a set of services. Each service is reponsible for a particular function. A service is scaled using x-axis scaling and, possibly, z-axis scaling.
+
+- Microservices as a form of modularity
+	- Use services as the unit of modularity, A service has an API, which is an impermeable boundary that is difficult to violate.
+	- Each microservice has its own database
+	- communicate using API
+	
