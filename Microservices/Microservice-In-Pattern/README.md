@@ -13,14 +13,14 @@ Anohter learning resource: https://microservices.io/
 - Topic
 	- Focus on explaining the microservice architecture patterns and other concepts
 
-**- What you will learn in this book**
+- What you will learn in this book
 	- The essential characterstics of the microservice architcture, its benifits and drawbacks
 	- **Distributed data management patterns**
 	- **Effective microservice testing strategies**
 	- Deploymnet options for microservices
 	- Strategies for refactoring a monolithic application into a microservice architecture
 	
-**- What you wil**
+- What you wil
 	- Architect an application using microservice acchitecture pattern
 	- Develop the business logic for a service
 	- Use sagas to maintain data consitency across services
