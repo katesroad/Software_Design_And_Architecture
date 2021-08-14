@@ -21,7 +21,7 @@ Anohter learning resource: https://microservices.io/
 	- Strategies for refactoring a monolithic application into a microservice architecture
 	
 - What you wil
-	- Architect an application using microservice acchitecture pattern
+	- **Architect an application using microservice acchitecture pattern**
 	- Develop the business logic for a service
 	- Use sagas to maintain data consitency across services
 	- Implement queries that span services
