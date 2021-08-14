@@ -1,4 +1,4 @@
-# Escaping monolithic hel
+# Escaping monolithic hell
 
 
 ## The symptons of monolithic hell 
@@ -41,3 +41,4 @@ and how to escape it by adopting the microservice architecture
 		- CI
 		- Testing, deployment, development, module compromise
 		- Team cooperation and management
+  - Growing consensus is that if you're building a large, complex application, you should consider using the microservice architecture
