@@ -42,3 +42,9 @@ and how to escape it by adopting the microservice architecture
 		- Testing, deployment, development, module compromise
 		- Team cooperation and management
   - Growing consensus is that if you're building a large, complex application, you should consider using the microservice architecture
+
+- Scale cube and microservices
+	- The art of scalability
+		- **x axis**  Load balances requests across multple instances
+		- **z axis**:  scalling runs multiple identical instances of the monolithic application behinds  the routes which routes based on a request attribute. Each  instance is responsible for a subste of data
+		- **y axis** scaliing spliting the application into a set of services. Each service is reponsible for a particular function. A service is scaled using x-axis scaling and, possibly, z-axis scaling.
