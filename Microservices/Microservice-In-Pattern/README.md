@@ -10,4 +10,6 @@ About: Reading notes for [Microservice Pattern in Java](https://www.amazon.com/M
 	- Developement && architect
 - Topic
 	- Focus on explaining the microservice architecture patterns and other concepts
-	- 
+
+- Content
+	- Chapter 01: explain the sympton of monothilic application
