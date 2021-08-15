@@ -56,4 +56,14 @@ and how to escape it by adopting the microservice architecture
 	- communicate using API
 	- Many services correspond to the modules described earlier in this chapter. What’s different is that each service and its API are very clearly defined.
 	- **A service is a mini application that implements narrowly focused functionality. What matters is that each service has a focused, cohesive set of responsibilities**
+
+- SOA vs Microservices
+	- microservices
+		- data model and database per service
+		- smaller service
+		- dump pipes
+	- SOA
+		- smart pipes
+		- global data and shared data bases
+		- larger monolithic application
 	
