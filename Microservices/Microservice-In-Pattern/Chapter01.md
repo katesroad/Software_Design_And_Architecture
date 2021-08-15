@@ -45,7 +45,7 @@ and how to escape it by adopting the microservice architecture
 
 - Scale cube and microservices
 	- The art of scalability
-		- **x axis**  Load balances requests across multple instances
+		- **x axis**  Load balancer requests across multple instances
 		- **z axis**:  scalling runs multiple identical instances of the monolithic application behinds  the routes which routes based on a request attribute. Each  instance is responsible for a subste of data
 		- **y axis** scaliing spliting the application into a set of services. Each service is reponsible for a particular function. A service is scaled using x-axis scaling and, possibly, z-axis scaling.
 
@@ -53,7 +53,6 @@ and how to escape it by adopting the microservice architecture
 	- Use services as the unit of modularity, A service has an API, which is an impermeable boundary that is difficult to violate.
 	- Each microservice has its own database
 	- communicate using API
-	- Many services correspond to the modules described earlier in this chapter. What’s dif
-ferent
-is that each service and its API are very clearly defined.
+	- Many services correspond to the modules described earlier in this chapter. What’s different is that each service and its API are very clearly defined.
+	- **A service is a mini application that implements narrowly focused functionality. What matters is that each service has a focused, cohesive set of responsibilities**
 	
