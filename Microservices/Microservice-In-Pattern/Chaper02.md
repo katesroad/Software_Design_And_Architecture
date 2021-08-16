@@ -18,3 +18,9 @@
 	- Scalability, reliabilty, secrurity(traditional)
 	- rapid and safe delivery of software(nowdays)
 	- Maintainaibility, testability, deployability(microservice architecture)
+
+- The 4+1 view model of software acrhitecture
+	- Logic view
+	- Implementation view
+	- Process view: the components at run time
+	- Deployment view: how the processes are mapped to machines
