@@ -13,3 +13,8 @@
 - Key ideas
 	- Architcture => the definition of the services
 	- Services are organized around business concerns rather than techinical concerns  => Idea pf DDD
+
+- Goal of architecture
+	- Scalability, reliabilty, secrurity(traditional)
+	- rapid and safe delivery of software(nowdays)
+	- Maintainaibility, testability, deployability(microservice architecture)
