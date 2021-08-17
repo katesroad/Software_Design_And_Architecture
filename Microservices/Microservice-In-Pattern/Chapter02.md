@@ -38,3 +38,12 @@
 		- reliability
 		- deployability
 - Overview of architectural styles
+	- layered architecture: organizes software elements into layers.
+		- how
+			- presentation
+			- business logic
+			- persitance 
+       - drawbacks
+	       - Single presentation layer—It doesn’t represent the fact that an application is likely to be invoked by more than just a single system.
+		   - Single persistence layer—It doesn’t represent the fact that an application is likely to interact with more than just a single database.
+			- Defines the business logic layer as depending on the persistence layer—In theory, this dependency prevents you from testing the business logic without the database.
