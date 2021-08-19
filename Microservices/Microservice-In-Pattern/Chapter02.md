@@ -59,3 +59,12 @@
 	- it structures the implmentation view as a set of multiple components
 	- The components are services
 	- the connectors are the communication protocals that enable these services to collaborate
+	- The connectors between services are implemented using interprocess communication mechanisms such as REST APIs and asynchronous messaging.
+- *business capability*
+
+- **What is service**
+	- A service is a standalone, independently deployable software component that implements some useful functionality.
+		- Two types of operations
+			- commands: createOrder
+			- queries: findOrderById
+       - A service also publishes events, OrderCreated. Which comsumed by its clients.
