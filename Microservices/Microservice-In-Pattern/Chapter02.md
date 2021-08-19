@@ -68,3 +68,4 @@
 			- commands: createOrder
 			- queries: findOrderById
        - A service also publishes events, OrderCreated. Which comsumed by its clients.
+	-  An essential requirement is that a service has API and is independently deployable.
