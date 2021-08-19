@@ -49,3 +49,9 @@
 			- Defines the business logic layer as depending on the persistence layer—In theory, this dependency prevents you from testing the business logic without the database.
 
 - Hexagonal architecture
+	- **How**: 	the hexagonal architecture style organizes the logical view in a way that places the business logic at the center
+	- **Features**
+		- A key characteristic and benefit of this architecture is **that the business logic doesn’t depend on the adapters. Instead, they depend upon it.**
+		- Two types of ports
+			- Inbound
+			- Outbound
