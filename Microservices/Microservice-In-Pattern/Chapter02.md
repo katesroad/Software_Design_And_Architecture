@@ -55,3 +55,7 @@
 		- Two types of ports
 			- Inbound
 			- Outbound
+- The microservice architecture is an architectural style
+	- it structures the implmentation view as a set of multiple components
+	- The components are services
+	- the connectors are the communication protocals that enable these services to collaborate
