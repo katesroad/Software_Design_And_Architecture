@@ -6,3 +6,6 @@
 - Same Site cookie
   - [SameSite Cookie Attribute Explained by Example (Strict, Lax, None & No SameSite)](https://www.youtube.com/watch?v=aUF2QCEudPo&ab_channel=HusseinNasser)
   - [MDN SameSite cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
+
+- RBAC
+  - [What is RBAC](https://auth0.com/docs/authorization/rbac/#extending-rbac)
